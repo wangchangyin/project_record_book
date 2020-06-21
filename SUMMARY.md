@@ -51,6 +51,7 @@
             * 判断类
                 * [Java 判断操作系统类型](md/Java判断操作系统类型.md)
                 * [Java判断闰年](md/Java判断闰年.md)
+                * [JavaTest](md/java测试.md)
             * IO操作类
                 * [IO操作类](md/IO操作类.md)
         * MyBatis
